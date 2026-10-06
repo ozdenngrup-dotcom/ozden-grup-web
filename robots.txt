@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grupozden.com/sitemap.xml
